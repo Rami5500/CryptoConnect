@@ -7789,6 +7789,7 @@ textarea.form-control-lg {
   padding-top: 3rem !important;
   padding-bottom: 3rem !important;
   background-color: #222222;
+
 }
 
 .pt-0 {
@@ -10850,4 +10851,14 @@ html {
   background-position: center;
   background-repeat: no-repeat;
   min-height: 15rem;
+}
+
+.video-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+video {
+  width: 100%;
+  height: auto;
 }
